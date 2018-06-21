@@ -1,1 +1,2 @@
-# Psychic-Game-2
+# Psychic-Game
+Basic JavaScript homework assignment
